@@ -773,6 +773,10 @@ input,
 	font-family: var(--tl-font-mono);
 }
 
+.tl-text-shape__wrapper[data-font='vazir'] {
+	font-family: var(--tl-font-mono);
+}
+
 .tl-text-shape__wrapper[data-isediting='true'] .tl-text-content {
 	opacity: 0;
 }
