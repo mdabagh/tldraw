@@ -55,6 +55,8 @@
 	--tl-font-sans: 'tldraw_sans', sans-serif;
 	--tl-font-serif: 'tldraw_serif', serif;
 	--tl-font-mono: 'tldraw_mono', monospace;
+	--tl-font-mono: 'vazir', vazir;
+
 	--a: calc(min(0.5, 1 / var(--tl-zoom)) * 2px);
 	--b: calc(min(0.5, 1 / var(--tl-zoom)) * -2px);
 	--tl-text-outline: 0 var(--b) 0 var(--color-background), 0 var(--a) 0 var(--color-background),
